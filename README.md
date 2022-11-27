@@ -3,6 +3,7 @@
 I am a formar physical therapist who decided to take on a new challenge - become a ✨Software Developer✨! I am currently learning C/C++ at 42 Lisboa, as well as some tools that will
 undoubtedly be useful in any work settings. Feel free to browse my projects and contact me
 if you'd like to know more about me and/or my journey! 😄
+Check out my CV here: https://daalmeid.github.io/resume/
 
 ## Languages
 
